@@ -11,12 +11,12 @@ The title must be “Your Name Frontend 1 AccioJob ContestDate”(2)
 For e.g. Ayush Bansal Frontend 1 AccioJob 6 January 2023
 Note: Marks will only be given if all the subtasks are completed, i.e. either 0 or 10
 
-Section I should have the following deliverables: (15 Marks)
+Section 1 should have the following deliverables: (15 Marks)
 Make sure that the Read More is an anchor tag which leads to this Wikipedia link Link: https://en.wikipedia.org/wiki/Beagle (5)
 “The Beagle Blog” should be written inside a heading tag.(5)
 ‘beagle’ word should be bold in the paragraph. (5)
 
-Section II should have the following deliverables:(15 Marks)
+Section 2 should have the following deliverables:(15 Marks)
 Add a heading named “Images”. (5)
 Add an image as shown in the Figma design (5)
 "More Images" is an anchor tag which takes the user to this link: (5)
